@@ -1,1 +1,3 @@
-
+This Document gives a brief explanation about the structure of this project 
+go through the different files and elementsv of this project 
+THANK YOU ...
